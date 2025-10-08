@@ -1,0 +1,2366 @@
+fileFormatVersion: 2
+guid: bcfc44f8703ee4449ac89334502998b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A lot of many more sprites_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1952
+        width: 162
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5690774872b607d499f0192c4149ff08
+      internalID: -1048893185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1957
+        width: 150
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb710a320241124f9d692896d29ed86
+      internalID: 481567629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1953
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7fa0d9876c2ac4396df6d28f39547a
+      internalID: 1683765739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1957
+        width: 143
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414fa5ee4a39c564781044552b24ef52
+      internalID: -138414775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_4
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1948
+        width: 190
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4ca3d5513448f44b426e3225f185b3
+      internalID: 1434742636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1772
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32fa32d341deb046a0e01e9e054a651
+      internalID: 2116007023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1759
+        width: 125
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4901bbbab60a44a46a6fba654b429e67
+      internalID: 1811274869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1749
+        width: 134
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576d64e5d40e4a74e88e04c9f652db1a
+      internalID: -1933946635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_8
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1741
+        width: 143
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a12696b89b02eb418502835a1cdcf52
+      internalID: 420950448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1724
+        width: 132
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea97e56ee42c24449e15d0c44a66ea2
+      internalID: -517952085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_10
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1717
+        width: 154
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85640113705aa1e43962ad71960668b7
+      internalID: -728298103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1583
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19e6271ffd3333428aa9ae967d5aff3
+      internalID: -1116162631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1589
+        width: 86
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29bbfd09fc9ea54dba533db74c908c2
+      internalID: -1301578834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1578
+        width: 109
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b953f60a6b8a4498ddedd4a180e4ea
+      internalID: 670738574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_14
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1540
+        width: 107
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a1d84fc565ac944828a19689421837
+      internalID: -776512183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_15
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1563
+        width: 64
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0640e6aefe689c84dab9e715568db383
+      internalID: -558508173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_16
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1540
+        width: 124
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f594b4defc279418fcb6f374be4f3e
+      internalID: -307736798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_17
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1369
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181f119a8a0915f44b2960fd2c012162
+      internalID: -1978757869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_18
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1448
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b91c5c9c021a24d95bbab85ae4070b
+      internalID: 2132785028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1265
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee9529b23ee354b949ad26f9993d83
+      internalID: 2120616632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1264
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f518e587523e04386ab531586bdea4
+      internalID: 2129491692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1240
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daea9471c31a5a542acb2f5181940be8
+      internalID: 125218351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_22
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1225
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e8f997b9321d443b70ca7390836d1c
+      internalID: -2088696174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_23
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1225
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e234798dc07aa9043a9ab946b4fa3b4c
+      internalID: 2115030966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_24
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1146
+        width: 25
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81a1c0553e85d41b5c4c3a68c3ac5d
+      internalID: -997838097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_25
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1261
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e4dec86079c5b41abfccc0297df922
+      internalID: 363081799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_26
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1263
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e654dd6d16b6d48843c0a98ffc8d7a
+      internalID: -1276439910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_27
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1222
+        width: 115
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de515186f1861348b8c76889d680536
+      internalID: 284988478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1201
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d3a112ed729c4419f01d91b6fed465
+      internalID: -476203124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1201
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ba028bd9528dc499d059aebc9f9b36
+      internalID: 703187101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1127
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d038aba0fb0064e9d46f92cf698dda
+      internalID: 462590738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1133
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5cbb98cdc98a841b83507f402d3ce8
+      internalID: -137219648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_32
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1134
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12877ef5a6111f7418b6bf88e5f47c20
+      internalID: 1927451276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_33
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1130
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f7594186ccd4f4bb6d10dab2393d19
+      internalID: -1033537122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1142
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5cbd8d8b6e5e14392bd39f78c00170
+      internalID: -1160966152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1138
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73530dd17b5f7f5418af6d87b0bf4f1a
+      internalID: -195950238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_36
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1133
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c4c82e33c3b0e42bb1781fa3f9df50
+      internalID: 1762159637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1058
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eeabb0bc9a48540a8b37a5f81233d2
+      internalID: 480620090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 993
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9900bc6b9d77d94984b23b25705d35b
+      internalID: 1327340143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_39
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1017
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa7c4e1de6ff4c49965e2c45349cfb6
+      internalID: -15702407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_40
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 932
+        width: 77
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f7fc94311c92a4199da6aa5bf42dea
+      internalID: 937691681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_41
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1010
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a391d2288a3bb14b9778a044f8c3952
+      internalID: -2011682133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_42
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 955
+        width: 131
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6205e3ebcd47ac94aa6e6f42fe9c4e06
+      internalID: -230061233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_43
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1025
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71012e07cfa2d9d4bba62e13803a5376
+      internalID: 1252084248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_44
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 947
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6876fafd7e329284bb9a04db9bef9715
+      internalID: -1347854609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 932
+        width: 118
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579be00941eb5eb46a828c2641e41329
+      internalID: 1079626959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_46
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 925
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8aa6e40b81bc342beddfefdb55a343
+      internalID: -1670597312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_47
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 922
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20ce678ee6d7024d8ae1a1d6a6c8418
+      internalID: 90635238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_48
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 936
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7296a2f97ffd329488d4deb0c9676e88
+      internalID: -582186728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 814
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aa313688e3b81468f9ba91b0eb408c
+      internalID: -2008039006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_50
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 810
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57e74a7184d6b547bff0ad4f8c4530c
+      internalID: 1565538422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_51
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 892
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53f5faa3f2bb494b9dbf473d671cc2a
+      internalID: -1804759832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 734
+        width: 65
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a03a13a7062f4287a643eee4f536c
+      internalID: 360906402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 837
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93260af5c65f6db44aae2df9c4623cb9
+      internalID: -2106666543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_54
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 743
+        width: 142
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a318a962b036a4e9ff363ca85d1286
+      internalID: -1177076287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_55
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 739
+        width: 93
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c52243ccad24a9488dfc4a08a7169fc
+      internalID: -1920780392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_56
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 724
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f496d6e70ac0042afaf522bcd07f2a
+      internalID: -381079258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_57
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 749
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee19b906c52179f49974a1cf998bda26
+      internalID: -306697594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_58
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 724
+        width: 172
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abf8d5f7b8609049b0512fc1c405ee7
+      internalID: -837434931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_59
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 477
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0032e8d3fd3492445bf37b9d69a6bd48
+      internalID: 580698808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 479
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1262cc5e8cf304fbfd04fae68633fd
+      internalID: 1945304614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_63
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 480
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dde4dc4c29691418b94867c552a8dc
+      internalID: -1344722774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 479
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e295d4d12ad56004094e774e11c0bd19
+      internalID: -1227580043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 480
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47a3684589dedd4f979be200832f777
+      internalID: -1890206040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_67
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 385
+        width: 81
+        height: 117
+      alignment: 9
+      pivot: {x: 0.45679012, y: 0.059829064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6933d32160eec2f42b932bba5bc3bef2
+      internalID: 1780707383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_68
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 382
+        width: 77
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4025974, y: 0.10377359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a89c6a4939aa9142b7041f3158c7194
+      internalID: 690712047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_69
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 375
+        width: 88
+        height: 133
+      alignment: 9
+      pivot: {x: 0.38636366, y: 0.07518797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125866c9c8f68ba4088aa06a9f3f8193
+      internalID: -1876359632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_70
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 451
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da0983ce1e7884db9accbb8d8e5df9
+      internalID: -1901485334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_71
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 450
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f62caa31f60c5a428a47c09f07abf42
+      internalID: 922359052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_72
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 450
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afcc8d88836fa245926f4f85bce335f
+      internalID: -164099248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_73
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 448
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd83b1176afb864388f715f50da6645
+      internalID: -1192004064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_74
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 447
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335d29772945c154e9ab9433a9f2b77f
+      internalID: -1225953719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_75
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 385
+        width: 74
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13414633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3e9b5d0d2cc8646bd0f7c56cebe620
+      internalID: -985012089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_76
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 381
+        width: 69
+        height: 99
+      alignment: 9
+      pivot: {x: 0.39130434, y: 0.08080808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab451c674debce4b9823db016e5331b
+      internalID: 471693026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 429
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a65296f849de9439bd5d1d87163359
+      internalID: -150987295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 399
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c4d978e9c62594fafe12ce146ad0ad
+      internalID: 1017211938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 397
+        width: 26
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c922dd7b21c5a47bea619c6b0fe569
+      internalID: -1714784516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_80
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 396
+        width: 28
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dafc2b86e816f44d89c7e59b90987cf
+      internalID: -1488788332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_81
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 396
+        width: 25
+        height: 15
+      alignment: 9
+      pivot: {x: 0.48, y: 0.20000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6458e0677f5137549aa84e458752e3fb
+      internalID: -857181468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_82
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 398
+        width: 27
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5185185, y: 0.21739131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64272f8bd945bea489f09974c8a1cf47
+      internalID: 438284335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_83
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 362
+        width: 20
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0870f1944198145aad0bed448be71a
+      internalID: 2048884657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_84
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 360
+        width: 21
+        height: 13
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8df7d670bdda947aa2d11599f65cf0
+      internalID: 321143906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_85
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 39
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.18181819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f070e3f66bf86024fab0c787b11a92f1
+      internalID: 314918365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_86
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 348
+        width: 42
+        height: 38
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.10526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc85bd666b27a44aba99cf536f712b2
+      internalID: -801197823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_87
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 294
+        width: 57
+        height: 76
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.09210526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f499b6f8af383c3428b9a6dc4aee6bc7
+      internalID: -950663457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_88
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 283
+        width: 60
+        height: 89
+      alignment: 9
+      pivot: {x: 0.43333337, y: 0.123595506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4ad271cf4a4154eaf1de265344451c
+      internalID: -302746276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_89
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 292
+        width: 61
+        height: 77
+      alignment: 9
+      pivot: {x: 0.68852454, y: 0.103896104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0fa21b30f5d0944abeb0bc541ccbec
+      internalID: -1057695288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_90
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 290
+        width: 39
+        height: 73
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.09589041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5d85d49c7836c45aa907052fdd4a09
+      internalID: -1315431801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_91
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 315
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84ed33e02c1c2149a8a8c256e1b9739
+      internalID: 572483629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_92
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 317
+        width: 32
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0140dc34fdf7140874efb8d37b7fa3
+      internalID: -605627827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_93
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 314
+        width: 42
+        height: 26
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.23076925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09d8499fbb03e640974990a4452b3bf
+      internalID: -737269272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_94
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 316
+        width: 39
+        height: 23
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.21739131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65c3d1aed9cddb4da6329bf2a738302
+      internalID: 32222150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_95
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 288
+        width: 39
+        height: 67
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.10447761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa091148b0269a4f801f965de90f66a
+      internalID: 42476218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_96
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 287
+        width: 43
+        height: 75
+      alignment: 9
+      pivot: {x: 0.5116279, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f98cb91e32d84ebf9cd1be4570ed1
+      internalID: 629115837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_97
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 250
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5834080d4c9e864eabada95e7b99249
+      internalID: -1941818506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_98
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 230
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb6d35d66736b249816201ef51a0a00
+      internalID: -258685493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 213
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb1ae0424100a44395c8dee3e82b6ed
+      internalID: -1221964431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_100
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 165
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f37edc0ae9cf04995a08f76d601599
+      internalID: -368658687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_101
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 172
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195b2650bb213c249a98029e48c12a67
+      internalID: 1603776991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_102
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 111
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc1450eff4da2f4d8f2ad055e347c5d
+      internalID: -181716149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A lot of many more sprites_103
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 112
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f55baf4b8a3e44aa6215f9e2df40b1
+      internalID: 1922004911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      A lot of many more sprites_0: -1048893185
+      A lot of many more sprites_1: 481567629
+      A lot of many more sprites_10: -728298103
+      A lot of many more sprites_100: -368658687
+      A lot of many more sprites_101: 1603776991
+      A lot of many more sprites_102: -181716149
+      A lot of many more sprites_103: 1922004911
+      A lot of many more sprites_104: 898175434
+      A lot of many more sprites_11: -1116162631
+      A lot of many more sprites_12: -1301578834
+      A lot of many more sprites_13: 670738574
+      A lot of many more sprites_14: -776512183
+      A lot of many more sprites_15: -558508173
+      A lot of many more sprites_16: -307736798
+      A lot of many more sprites_17: -1978757869
+      A lot of many more sprites_18: 2132785028
+      A lot of many more sprites_19: 2120616632
+      A lot of many more sprites_2: 1683765739
+      A lot of many more sprites_20: 2129491692
+      A lot of many more sprites_21: 125218351
+      A lot of many more sprites_22: -2088696174
+      A lot of many more sprites_23: 2115030966
+      A lot of many more sprites_24: -997838097
+      A lot of many more sprites_25: 363081799
+      A lot of many more sprites_26: -1276439910
+      A lot of many more sprites_27: 284988478
+      A lot of many more sprites_28: -476203124
+      A lot of many more sprites_29: 703187101
+      A lot of many more sprites_3: -138414775
+      A lot of many more sprites_30: 462590738
+      A lot of many more sprites_31: -137219648
+      A lot of many more sprites_32: 1927451276
+      A lot of many more sprites_33: -1033537122
+      A lot of many more sprites_34: -1160966152
+      A lot of many more sprites_35: -195950238
+      A lot of many more sprites_36: 1762159637
+      A lot of many more sprites_37: 480620090
+      A lot of many more sprites_38: 1327340143
+      A lot of many more sprites_39: -15702407
+      A lot of many more sprites_4: 1434742636
+      A lot of many more sprites_40: 937691681
+      A lot of many more sprites_41: -2011682133
+      A lot of many more sprites_42: -230061233
+      A lot of many more sprites_43: 1252084248
+      A lot of many more sprites_44: -1347854609
+      A lot of many more sprites_45: 1079626959
+      A lot of many more sprites_46: -1670597312
+      A lot of many more sprites_47: 90635238
+      A lot of many more sprites_48: -582186728
+      A lot of many more sprites_49: -2008039006
+      A lot of many more sprites_5: 2116007023
+      A lot of many more sprites_50: 1565538422
+      A lot of many more sprites_51: -1804759832
+      A lot of many more sprites_52: 360906402
+      A lot of many more sprites_53: -2106666543
+      A lot of many more sprites_54: -1177076287
+      A lot of many more sprites_55: -1920780392
+      A lot of many more sprites_56: -381079258
+      A lot of many more sprites_57: -306697594
+      A lot of many more sprites_58: -837434931
+      A lot of many more sprites_59: 580698808
+      A lot of many more sprites_6: 1811274869
+      A lot of many more sprites_60: 677107365
+      A lot of many more sprites_61: 1945304614
+      A lot of many more sprites_62: 1110693467
+      A lot of many more sprites_63: -1344722774
+      A lot of many more sprites_64: -1227580043
+      A lot of many more sprites_65: 93297808
+      A lot of many more sprites_66: -1890206040
+      A lot of many more sprites_67: 1780707383
+      A lot of many more sprites_68: 690712047
+      A lot of many more sprites_69: -1876359632
+      A lot of many more sprites_7: -1933946635
+      A lot of many more sprites_70: -1901485334
+      A lot of many more sprites_71: 922359052
+      A lot of many more sprites_72: -164099248
+      A lot of many more sprites_73: -1192004064
+      A lot of many more sprites_74: -1225953719
+      A lot of many more sprites_75: -985012089
+      A lot of many more sprites_76: 471693026
+      A lot of many more sprites_77: -150987295
+      A lot of many more sprites_78: 1017211938
+      A lot of many more sprites_79: -1714784516
+      A lot of many more sprites_8: 420950448
+      A lot of many more sprites_80: -1488788332
+      A lot of many more sprites_81: -857181468
+      A lot of many more sprites_82: 438284335
+      A lot of many more sprites_83: 2048884657
+      A lot of many more sprites_84: 321143906
+      A lot of many more sprites_85: 314918365
+      A lot of many more sprites_86: -801197823
+      A lot of many more sprites_87: -950663457
+      A lot of many more sprites_88: -302746276
+      A lot of many more sprites_89: -1057695288
+      A lot of many more sprites_9: -517952085
+      A lot of many more sprites_90: -1315431801
+      A lot of many more sprites_91: 572483629
+      A lot of many more sprites_92: -605627827
+      A lot of many more sprites_93: -737269272
+      A lot of many more sprites_94: 32222150
+      A lot of many more sprites_95: 42476218
+      A lot of many more sprites_96: 629115837
+      A lot of many more sprites_97: -1941818506
+      A lot of many more sprites_98: -258685493
+      A lot of many more sprites_99: -1221964431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
